@@ -1,0 +1,13 @@
+﻿{
+    "prefix": ".",
+    "server": "sunucu ID",
+    "log": "log ID",
+    "booster": "booster rol ID",
+    "owner": "bot sahip ID",
+    "token": "",
+
+    "reason": "#RICHARD ❤️ #AINSWORTH",
+    "safezone": ["botun etki etmeyeceği kişi","(ler)"],
+    "safebots": ["botun etki etmeyeceği bot","(lar)"],
+    "activity": "RICHARD ❤️ #AINSWORTH"
+}
